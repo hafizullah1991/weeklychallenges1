@@ -6,7 +6,8 @@ namespace ChallengesWithTestsMark8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            ChallengesSet06 challenges = new ChallengesSet06();
+            //challenges.CollectionContainsWord("Concord","apples" true)
         }
     }
 }
